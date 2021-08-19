@@ -25,26 +25,26 @@
 ## My Projects
 
 - Images Converter (<a href="https://bilde-konverterer.herokuapp.com">Show demo</a>):
--- Made Frontend with React JS and Redux JS.
--- Made backend with Node JS and Sharp JS.
+   - Made Frontend with React JS and Redux JS.
+   - Made backend with Node JS and Sharp JS.
 
 - Enterprise  Software to mange sales and stock (<a href="https://mbusness.herokuapp.com/login">Show demo</a>, you will need credentials).
--- Made Frontend with Angular 8 and TypeScript.
--- Made Backend with Node JS, Express and MongoDB.
+  - Made Frontend with Angular 8 and TypeScript.
+  - Made Backend with Node JS, Express and MongoDB.
 
 - Argentine products E-commerce (<a href="https://vinoslm.vercel.app">Show demo</a>):
--- Made Frontend with Next JS, React JS.
--- Made Backend with Contentful, Next JS and Nodemailer.
+  - Made Frontend with Next JS, React JS.
+  - Made Backend with Contentful, Next JS and Nodemailer.
 
 - Real State (<a href="https://bg-real-estate.vercel.app">Show demo</a>):
--- Made Frontend with Next JS, React JS.
--- Made Backend with Contentful, Next JS and Nodemailer.
+  - Made Frontend with Next JS, React JS.
+  - Made Backend with Contentful, Next JS and Nodemailer.
 
 - El hostal Restaurante (<a href="https://elhostalrestaurante.es">Show demo</a>):
--- Made Frontend with Wordpress.
+  - Made Frontend with Wordpress.
 
 - El hostal Restaurante (<a href="https://elhostalrestaurante.es">Show demo</a>):
--- Made Frontend with Wordpress.
+  - Made Frontend with Wordpress.
 
 - Menu El Hostal Restaurante (<a href="https://elhostal.gtsb.io"> Show demo</a>):
--- Made Frontend with Gatsby JS and React JS.
+  - Made Frontend with Gatsby JS and React JS.
