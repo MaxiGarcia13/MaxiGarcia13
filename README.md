@@ -18,7 +18,7 @@
   <h3 align="center">Hi 👋🏻, I'm Maximiliano</h3>
 
   <p align="center">
-    I'm a JavaScript developer with more than 3 years of experience
+    I'm a JavaScript developer.
   </p>
 
 
