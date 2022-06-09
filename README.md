@@ -47,52 +47,66 @@
   <table border="transparent">
     <tr>
       <td>
-         <img
-          src="https://github-readme-stats.vercel.app/api/pin?username=MaxiGarcia13&repo=examples-react&theme=dracula"   
-          width="328"
-        />
+        <a href="https://github.com/MaxiGarcia13/examples-react" target="_blank">
+           <img
+            src="https://github-readme-stats.vercel.app/api/pin?username=MaxiGarcia13&repo=examples-react&theme=dracula"   
+            width="328"
+          />
+        </a>
       </td>
       <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin?username=MaxiGarcia13&repo=github-repository-searcher&theme=dracula"   
-          width="328"
-        />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin?username=MaxiGarcia13&repo=vagrant-docker-engine&theme=dracula"   
-          width="328"
-        />
-      </td>
-      <td>
-         <img
-          src="https://github-readme-stats.vercel.app/api/pin?username=MaxiGarcia13&repo=el_hostal&theme=dracula"   
-          width="328"
-        /> 
+        <a href="https://github.com/MaxiGarcia13/github-repository-searcher" target="_blank">
+          <img
+            src="https://github-readme-stats.vercel.app/api/pin?username=MaxiGarcia13&repo=github-repository-searcher&theme=dracula"   
+            width="328"
+          />
+        </a>
       </td>
     </tr>
     <tr>
       <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin?username=MaxiGarcia13&repo=vagrant-cli&theme=dracula"   
-          width="328"
-        />
+        <a href="https://github.com/MaxiGarcia13/vagrant-docker-engine" target="_blank">
+          <img
+            src="https://github-readme-stats.vercel.app/api/pin?username=MaxiGarcia13&repo=vagrant-docker-engine&theme=dracula"   
+            width="328"
+          />
+        </a>
       </td>
       <td>
-         <img
-          src="https://github-readme-stats.vercel.app/api/pin?username=MaxiGarcia13&repo=BG_real_state&theme=dracula"   
-          width="328"
-        />
+         <a href="https://github.com/MaxiGarcia13/el_hostal" target="_blank">
+           <img
+            src="https://github-readme-stats.vercel.app/api/pin?username=MaxiGarcia13&repo=el_hostal&theme=dracula"   
+            width="328"
+          />
+        </a>
       </td>
     </tr>
     <tr>
       <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin?username=MaxiGarcia13&repo=react-hooks&theme=dracula"   
-          width="328"
-        />
+        <a href="https://github.com/MaxiGarcia13/vagrant-cli" target="_blank">
+          <img
+            src="https://github-readme-stats.vercel.app/api/pin?username=MaxiGarcia13&repo=vagrant-cli&theme=dracula"   
+            width="328"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/MaxiGarcia13/BG_real_state" target="_blank">
+           <img
+            src="https://github-readme-stats.vercel.app/api/pin?username=MaxiGarcia13&repo=BG_real_state&theme=dracula"   
+            width="328"
+          />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/MaxiGarcia13/react-hooks" target="_blank">
+          <img
+            src="https://github-readme-stats.vercel.app/api/pin?username=MaxiGarcia13&repo=react-hooks&theme=dracula"   
+            width="328"
+          />
+        </a>
       </td>
     </tr>
   </table>
