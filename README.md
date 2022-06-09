@@ -54,32 +54,40 @@
       </td>
       <td>
         <img
-          src="https://github-readme-stats.vercel.app/api/pin?username=MaxiGarcia13&repo=vagrant-docker-engine&theme=dracula"   
+          src="https://github-readme-stats.vercel.app/api/pin?username=MaxiGarcia13&repo=github-repository-searcher&theme=dracula"   
           width="328"
         />
       </td>
     </tr>
     <tr>
       <td>
-         <img
-          src="https://github-readme-stats.vercel.app/api/pin?username=MaxiGarcia13&repo=el_hostal&theme=dracula"   
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin?username=MaxiGarcia13&repo=vagrant-docker-engine&theme=dracula"   
           width="328"
         />
       </td>
+      <td>
+         <img
+          src="https://github-readme-stats.vercel.app/api/pin?username=MaxiGarcia13&repo=el_hostal&theme=dracula"   
+          width="328"
+        /> 
+      </td>
+    </tr>
+    <tr>
       <td>
         <img
           src="https://github-readme-stats.vercel.app/api/pin?username=MaxiGarcia13&repo=vagrant-cli&theme=dracula"   
           width="328"
         />
       </td>
-    </tr>
-    <tr>
       <td>
          <img
           src="https://github-readme-stats.vercel.app/api/pin?username=MaxiGarcia13&repo=BG_real_state&theme=dracula"   
           width="328"
         />
       </td>
+    </tr>
+    <tr>
       <td>
         <img
           src="https://github-readme-stats.vercel.app/api/pin?username=MaxiGarcia13&repo=react-hooks&theme=dracula"   
