@@ -5,43 +5,87 @@
   </a>
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/maximilianogarcia13" rel="nofollow">
     <img align="center" src="https://images.ctfassets.net/q19qos35shka/7pfGUFSQeOSlrF0aAsHUff/4cd422b3c6fda252030e169b5d415238/Frame.png?h=250" alt="Maxi Linkedin" height="24px" width="24px">
   </a>
-  
+
   <a href="https://twitter.com/Maxigarcia__" rel="nofollow">
     <img align="center" src="https://images.ctfassets.net/q19qos35shka/2A5DjAB1UNNpTqoOMYwq5I/95a798eb3271130200c500bf340b50ee/Group.png?h=250" alt="Maxi Twitter" height="24px" width="24px">
   </a>
 </p>
 
-  <h3 align="center">Hi 👋🏻, I'm Maximiliano</h3>
+<h3 align="center">Hi 👋🏻, I'm Maximiliano</h3>
 
-  <p align="center">
-    I'm a JavaScript developer.
-  </p>
+<p align="center">
+  I'm a Frontend Software Engineer
+</p>
 
+<div align="center">
+  <table border="transparent">
+    <tr>
+      <td>
+         <img
+          src="https://github-readme-stats.vercel.app/api?username=MaxiGarcia13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&custom_title=Github Stats"   
+          width="357"
+        />
+      </td>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiGarcia13&layout=compact&theme=dracula" alt="MaxiGarcia13 top languages" 
+          width="300"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
 
-## My Projects
+<p align="center">
+  Some Repositories
+</p>
 
-- Images Converter (<a href="https://bilde-konverterer.herokuapp.com">Show demo</a>):
-   - Made Frontend with React JS and Redux JS.
-   - Made backend with Node JS and Sharp JS.
-
-- Argentine products E-commerce (<a href="https://vinoslm.vercel.app">Show demo</a>):
-  - Made Frontend with Next JS, React JS.
-  - Made Backend with Contentful, Next JS and Nodemailer.
-
-- Real State (<a href="https://bg-real-estate.vercel.app">Show demo</a>):
-  - Made Frontend with Next JS, React JS.
-  - Made Backend with Contentful, Next JS and Nodemailer.
-
-- El hostal Restaurante (<a href="https://elhostalrestaurante.es">Show demo</a>):
-  - Made Frontend with Wordpress.
-
-- Menu El Hostal Restaurante (<a href="https://elhostal.gtsb.io"> Show demo</a>):
-  - Made Frontend with Gatsby JS and React JS.
-
-- Enterprise  Software to mange sales and stock (<a href="https://mbusness.herokuapp.com/login">Show demo</a>, you will need credentials).
-  - Made Frontend with Angular 8 and TypeScript.
-  - Made Backend with Node JS, Express and MongoDB.
+<div align="center">
+  <table border="transparent">
+    <tr>
+      <td>
+         <img
+          src="https://github-readme-stats.vercel.app/api/pin?username=MaxiGarcia13&repo=examples-react&theme=dracula"   
+          width="328"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin?username=MaxiGarcia13&repo=vagrant-docker-engine&theme=dracula"   
+          width="328"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td>
+         <img
+          src="https://github-readme-stats.vercel.app/api/pin?username=MaxiGarcia13&repo=el_hostal&theme=dracula"   
+          width="328"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin?username=MaxiGarcia13&repo=vagrant-cli&theme=dracula"   
+          width="328"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td>
+         <img
+          src="https://github-readme-stats.vercel.app/api/pin?username=MaxiGarcia13&repo=BG_real_state&theme=dracula"   
+          width="328"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin?username=MaxiGarcia13&repo=react-hooks&theme=dracula"   
+          width="328"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
