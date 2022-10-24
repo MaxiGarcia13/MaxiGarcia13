@@ -108,6 +108,14 @@
           />
         </a>
       </td>
+      <td>
+        <a href="https://github.com/MaxiGarcia13/my_posts" target="_blank">
+          <img
+            src="https://github-readme-stats.vercel.app/api/pin?username=MaxiGarcia13&repo=my_posts&theme=dracula"   
+            width="328"
+          />
+        </a>
+      </td>
     </tr>
   </table>
 </div>
