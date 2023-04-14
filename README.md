@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/Maximiliano Daniel Garcia/ReadME-Generator">
-    <img src="https://images.ctfassets.net/q19qos35shka/5HbYVk8cv4NvoummNPg1xb/b6f186dc63645322d2ab0b521cebae64/Group_2.png?h=800" loading="lazy"  alt="Logo" height="500">
+    <img src="https://images.ctfassets.net/q19qos35shka/5HbYVk8cv4NvoummNPg1xb/b6f186dc63645322d2ab0b521cebae64/Group_2.png?h=800" loading="lazy"  alt="Logo">
   </a>
 
 <p align="center">
