@@ -54,14 +54,6 @@ GitHub
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxiGarcia13&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiGarcia13&layout=compact)
-
----
-
 ## 📫 Let's Connect
 
 If you're interested in collaborating, discussing frontend architecture, or just talking about tech:
