@@ -49,8 +49,8 @@ I build modern web applications focused on **performance, scalability, and devel
 Portfolio  
 👉 https://maxi-garcia-mortigliengo-cv.vercel.app/
 
-GitHub  
-👉 https://github.com/MaxiGarcia13
+Linkedin  
+👉 https://www.linkedin.com/in/maximilianogarcia13
 
 ---
 
