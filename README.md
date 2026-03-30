@@ -2,7 +2,7 @@
 
 💻 Senior Frontend Software Engineer  
 🌍 Based in Spain  
-☕ Mate-powered developer
+🧉 Mate-powered developer
 
 I build modern web applications focused on **performance, scalability, and developer experience**.
 
